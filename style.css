@@ -1,0 +1,82 @@
+header{
+    width: 100%;
+    background: rgb(187, 179, 169);
+    border-radius: 100px 100px 0px 0px;
+}
+h2{
+    display:flex;
+    
+}
+.df{
+    font-weight: 700;
+    margin-top: 24px;
+}
+.blockone{
+    display:flex;
+    list-style-type: none;
+    margin: 24px;
+  
+}
+.qwe{
+    display:flex;
+    max-width: 1133px;
+    margin: 0 auto;
+   background: rgb(187, 179, 169);
+    border-radius: 100px 100px 0px 0px;
+   
+
+}
+span{
+    margin-right:25px;
+    margin-left:25px;
+}
+.rty{
+    display: flex;
+    margin-top: 24px;
+}
+.ru{
+    background-image: url("qwerty1.png");
+    background-size: cover;
+    height: 800px;
+    background-repeat: no-repeat;
+} 
+.xc{ 
+position: absolute;
+padding-right: 400px;
+padding-bottom: 250px;
+max-width: 453px;
+bottom:0px;
+right: 0px;
+margin: 0;
+}
+.first{
+    margin:0;
+}
+h1{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 80px;
+    margin: 0;
+}
+.vb{
+    margin-top:0;
+}
+.xc span{
+    background: black;
+    color: white;
+    padding: 6px 28px 6px 28px;
+
+}
+.women{
+    width: 100%;
+    display:flex;
+    max-width: 1133px;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 800px;
+    text-align: center;
+
+}
+
+
+
+
